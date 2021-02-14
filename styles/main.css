@@ -1,1 +1,29 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+body {
+  background: #07f;
+  color: #444;
+  font-family: "Poppins", sans-serif;
+  margin: 0%;
+  padding: 0%;
+}
+
+.bg_wave_before {
+  position: absolute;
+  bottom: 5%;
+  right: -5%;
+}
+
+.bg_wave_before g path {
+  fill: #499eff;
+}
+
+.bg_wave {
+  position: absolute;
+  bottom: 0%;
+  right: 0%;
+}
+
+.bg_wave g path {
+  fill: #fff;
+}
+/*# sourceMappingURL=main.css.map */
